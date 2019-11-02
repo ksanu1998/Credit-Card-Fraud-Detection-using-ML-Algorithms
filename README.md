@@ -13,7 +13,7 @@ Credit card fraud can be defined as, <i> ‘Unauthorized account activity involv
 Data Resources
 </b>
 <p> 
-We are working on the dataset provided in Kaggle, which is available under Open Database license.
+We are working on the dataset provided in <a href="https://www.kaggle.com/mlg-ulb/creditcardfraud">Kaggle</a>, which is available under Open Database license.
 </p>
 <b>
   Proposed Algorithm
