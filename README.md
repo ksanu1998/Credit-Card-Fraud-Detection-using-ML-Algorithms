@@ -7,16 +7,14 @@ This is an ongoing course project for EE 401 Pattern Recognition and Machine Lea
   About
 </b>
 <p> 
-Credit card fraud can be defined as, <i> ‘Unauthorized account activity involving a payment card, by a person for which the         account is not intended’</i>. These frauds cost consumers and banks millions of dollars worldwide, as a response to which several modern fraud-detection techniques are in place today. 
+Credit card fraud can be defined as, <i> ‘Unauthorized account activity involving a payment card, by a person for which the         account is not intended’</i>. These frauds cost consumers and banks millions of dollars worldwide, as a response to which several modern fraud-detection techniques are in place today.
 </p>
-<br>
 <b>
 Data Resources
 </b>
 <p> 
 We are working on the dataset provided in Kaggle, which is available under Open Database license.
 </p>
-
 <b>
   Proposed Algorithm
 </b>
