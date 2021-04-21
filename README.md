@@ -1,5 +1,4 @@
 # Credit Card Fraud Detection using ML Algorithms
-[![HitCount](http://hits.dwyl.com/ksanu1998/https://githubcom/ksanu1998/Credit-Card-Fraud-Detection-using-ML-Algorithms/blob/master/READMEmd.svg)](http://hits.dwyl.com/ksanu1998/https://githubcom/ksanu1998/Credit-Card-Fraud-Detection-using-ML-Algorithms/blob/master/READMEmd)<br>
 This is a course project for EE 401 Pattern Recognition and Machine Learning, done in collaboration with three of my classmates.
 <br>
 <br>
